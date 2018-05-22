@@ -1,0 +1,37 @@
+
+.vij
+{
+  color:red
+}
+/*body
+{
+  background-image:url("vij.jpg");
+  background-repeat:no-repeat;
+}*/
+p.dot
+{
+   border-style:solid;
+   border-width:3px;
+   padding: 30px 30px 30px 30px
+}
+p.text
+{
+   text-align:center;
+   color:red;
+   text-decoration:underline;
+   font-size:18px;
+}
+
+input 
+{
+   background-color:blue;
+   color:gray;
+ } 
+
+table,td
+{
+  background:gray;
+  border:1px solid black;
+  text_align:center;
+  padding:20px;
+}
